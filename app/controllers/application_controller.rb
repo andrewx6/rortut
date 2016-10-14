@@ -5,6 +5,6 @@ class ApplicationController < ActionController::Base
   		render html: "¡Hola, mundo!"
   end
   def bye
-  		render html: "Peace Out Fool"
+  		render html: "This is my test branch, soon to be on master"
   end
 end
