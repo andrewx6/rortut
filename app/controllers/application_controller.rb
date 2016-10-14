@@ -5,6 +5,6 @@ class ApplicationController < ActionController::Base
   		render html: "¡Hola, mundo!"
   end
   def bye
-  		render html: "Peace Out"
+  		render html: "Peace Out Fool"
   end
 end
